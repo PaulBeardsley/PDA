@@ -1,0 +1,5 @@
+Data Collection
+•	Identify potential internal and external data sources.
+•	Prioritize the data sources from most critical to least critical.
+•	Discuss potential challenges in data collection, such as data availability, data quality, or data integration
+•	Discuss how having a well-defined data collection plan will support Dairy Delights in making informed decisions to reduce waste and maximize profits.

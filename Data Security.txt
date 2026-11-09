@@ -1,0 +1,6 @@
+Data Security and Privacy By Design
+•	Conduct a data mapping exercise to identify any personal data collected, stored, or processed by Dairy Delights
+•	Assess the risks and vulnerabilities associated with the identified personal data
+•	Brainstorm and propose security measures to mitigate the identified risks and implement privacy by design principles for Dairy Delights' data processing and analysis.
+•	Legislations Protecting Personal Data
+•	Importance of Collaboration Between Stakeholders
